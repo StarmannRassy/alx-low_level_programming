@@ -8,7 +8,7 @@
  * Return: It should always return a value of 0, if suceessful.
  */
 
-int main (void)
+int main(void)
 {
 	int n;
 
