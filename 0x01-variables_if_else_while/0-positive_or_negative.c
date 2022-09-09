@@ -1,6 +1,6 @@
 #include <stdio.h>
-#inclube <time.h>
 #include <stdlib.h>
+#include <time.h>
 
 /**
  * main - Assign a random number to an integer (int) and everytime
