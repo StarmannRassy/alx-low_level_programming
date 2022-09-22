@@ -1,8 +1,8 @@
-include "main.h"
+#include "main.h"
 
 /**
  * leet - encodes a string in 1337
- * string to be encoded
+ * @s: string to be encoded
  *
  * Return: the resulting string;
  */
