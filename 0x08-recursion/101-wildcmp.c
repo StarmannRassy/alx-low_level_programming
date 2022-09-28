@@ -1,4 +1,3 @@
-
 #include "main.h"
 
 int bandersnatch(char *s1, char *s2);
